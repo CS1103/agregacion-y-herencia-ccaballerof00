@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__.dir/Volumen.cpp.o CMakeFiles/C__.dir/Libro.cpp.o CMakeFiles/C__.dir/Revista.cpp.o CMakeFiles/C__.dir/Biblioteca.cpp.o CMakeFiles/C__.dir/test.cpp.o  -o C__ 
